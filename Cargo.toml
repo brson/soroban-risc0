@@ -28,3 +28,4 @@ rx.features = [
 risc0-zkvm.version = "0.18.0"
 risc0-zkvm.default-features = false
 soroban-sdk.version = "0.9.2"
+soroban-sdk.features = ["alloc"]
